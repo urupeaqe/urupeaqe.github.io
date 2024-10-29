@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://urupeaqe.github.io/sitemap_index.urupeaqe
